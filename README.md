@@ -19,6 +19,7 @@
 :mailbox_with_no_mail: Reach me with [LinkedIn](https://www.linkedin.com/in/artem-gadliba-934884253/), [email](mailto:artgadliba@gmail.com)  
 :globe_with_meridians: I speak Russian & English
 
+### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;
@@ -28,6 +29,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />&nbsp;
-          
-          
+
+### My stats
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artgadliba&theme=algolia" alt="Statistics widget" />
           
